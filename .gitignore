@@ -1,0 +1,7 @@
+keys.json
+__pycache__/
+.DS_Store
+.env
+*.pdf
+*.csv
+*.json
