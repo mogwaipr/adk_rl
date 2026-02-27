@@ -1,0 +1,20 @@
+# Google Cloud & Vertex AI
+google-cloud-aiplatform
+google-cloud-storage
+google-cloud-resource-manager
+google-auth
+
+# Generative AI & LLM Tools
+langchain
+langchain-google-vertexai
+langchain-community
+
+# Data Science & Notebooks
+pandas
+numpy
+matplotlib
+ipykernel
+jupyter
+
+# General Utilities
+python-dotenv
